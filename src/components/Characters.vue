@@ -53,6 +53,5 @@ export default {
 <style>
 .container {
   box-sizing: border-box;
-  color: #000;
 }
 </style>
